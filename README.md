@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sosoh00
 - 👀 I’m interested in ... python
 - 🌱 I’m currently learning ... data Science and machine learning
-- 💞️ I’m looking to collaborate on ... any data related projects be it data analysis, processing or manipulation
+- 💞️ I’m looking to collaborate on ... any data related projects be it data analysis, processing or manipulation. I am also interested in web development and free to partner with any open group
 - 📫 How to reach me ...+26656025143(whatsApp) | Motlatsi Manka Linkedin 
 
 <!---
