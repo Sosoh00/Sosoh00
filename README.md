@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Sosoh00
-- 👀 I’m interested in ... python
-- 🌱 I’m currently learning ... data Science and machine learning
-- 💞️ I’m looking to collaborate on ... any data related projects be it data analysis, processing or manipulation. I am also interested in web development and free to partner with any open group
+- 👀 I’m have a strong interest in software Engineering, Currently working as a backend developer
+- 🌱 I’m more than happy to collaborate with various individuals to do projects internationally, and ready to donate my free hours to help where i can.
 - 📫 How to reach me ...+26656025143(whatsApp) | Motlatsi Manka Linkedin 
-
 <!---
 Sosoh00/Sosoh00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
